@@ -2,7 +2,7 @@ name : test_CI
 on : push
 jobs:
   job1:
-    name : First job
+    name : First jobss
     runs-on : ubuntu-latest
     steps:
     -name: Step  one
